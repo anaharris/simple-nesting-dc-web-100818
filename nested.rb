@@ -124,4 +124,5 @@ def adding_to_dennis
         }
      }
   dennis_lang = programmer_hash[:dennis_ritchie][:languages]
+  dennis_lang
 end
